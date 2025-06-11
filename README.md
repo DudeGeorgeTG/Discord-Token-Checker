@@ -1,4 +1,4 @@
-```markdown
+
 # Discord Token Checker
 
 A fast and efficient asynchronous Discord token validator that checks tokens from a file and saves the working ones.
