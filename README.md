@@ -18,7 +18,7 @@ A fast and efficient asynchronous Discord token validator that checks tokens fro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/discord-token-checker.git
+   git clone https://github.com/DudeGeorgeTG/Discord-Token-Checker.git
    cd discord-token-checker
    ```
 
