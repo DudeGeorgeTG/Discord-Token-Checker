@@ -51,9 +51,5 @@ Saved 2 valid tokens to valid.txt
 ⚠️ Discord's Terms of Service prohibit automated token checking.  
 ⚠️ Use at your own risk - you may get rate-limited or banned.  
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 
