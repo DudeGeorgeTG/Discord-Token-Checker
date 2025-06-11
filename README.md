@@ -56,19 +56,4 @@ Saved 2 valid tokens to valid.txt
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-### Recommended Repository Structure:
-```
-discord-token-checker/
-├── checker.py       (main script)
-├── tokens.txt       (input tokens)
-├── valid.txt        (output file - will be created)
-├── README.md        (this file)
-└── LICENSE          (license file)
-```
 
-### Additional Tips:
-1. For better GitHub visibility, add relevant tags like `discord`, `token-checker`, `python`, etc.
-2. Consider adding a `.gitignore` file to exclude `tokens.txt` and `valid.txt` from version control
-3. You might want to add a requirements.txt file with `aiohttp` listed
-
-Would you like me to modify any part of this README or add additional sections like "Contributing" or "FAQ"?
